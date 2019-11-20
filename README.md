@@ -1,1 +1,2 @@
-# sentiment_product_twitter
+
+# Sentimental Analysis of a product on twitter using R Programming.
